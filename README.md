@@ -14,7 +14,7 @@ A identidade do site combina uma linguagem editorial contemporânea com uma pale
 
 ### Objetivo do projeto
 
-Criar uma presença digital que comunique a personalidade profissional da arquiteta, destaque seus trabalhos e facilite a conexão com clientes e parceiros, utilizando recursos modernos de desenvolvimento web e uma abordagem visual diferenciada.
+Criar uma presença digital que comunique a personalidade profissional da arquiteta, destaque seus trabalhos e facilite a conexão com clientes e parceiros, utilizando recursos modernos de desenvolvimento web e uma abordagem visual diferenciada. Aprender modos de como programar, ser aluna de informática não é fácil.
 
 ### Tecnologias
 
