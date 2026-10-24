@@ -1,39 +1,21 @@
-# Ateliê Lume — Portfólio de Arquitetura & Urbanismo
+# Ateliê Lume — Arquitetura & Urbanismo
 
-Site responsivo em HTML, CSS e JavaScript puro, pronto para publicar no GitHub Pages.
+O **Ateliê Lume** é um portfólio digital de Arquitetura e Urbanismo desenvolvido para unir criatividade, estética contemporânea e funcionalidade em uma experiência visual única.
 
-## Como publicar no GitHub
+Inspirado nas tendências atuais do design digital e da arquitetura contemporânea, o site apresenta uma identidade visual autoral, marcada por cores vibrantes, composições modernas, tipografia expressiva e animações sutis. Sua proposta é romper com os padrões tradicionais de portfólios arquitetônicos, criando um ambiente digital sofisticado, dinâmico e memorável.
 
-1. Extraia o arquivo ZIP.
-2. Entre no GitHub e crie um repositório novo (por exemplo, `portfolio-arquitetura`).
-3. Envie o arquivo `index.html` para a raiz do repositório. Você também pode enviar este `README.md`.
-4. No repositório, abra **Settings → Pages**.
-5. Em **Build and deployment**, selecione **Deploy from a branch**.
-6. Selecione a branch `main` e a pasta `/ (root)` e clique em **Save**.
-7. Aguarde alguns minutos. O GitHub mostrará o endereço público do site nessa mesma página.
+A plataforma reúne a apresentação profissional da arquiteta, sua trajetória acadêmica, áreas de atuação, serviços oferecidos, metodologia de trabalho e uma galeria interativa de projetos. Além disso, conta com filtros por categorias, janelas de detalhes dos projetos, navegação adaptada para dispositivos móveis e uma seção de contato voltada ao agendamento de reuniões.
 
-## Personalize antes de publicar
+Mais do que uma vitrine de projetos, o Ateliê Lume foi concebido como uma extensão da identidade criativa da profissional, valorizando a relação entre espaço, forma, experiência e comunicação visual.
 
-Abra `index.html` em um editor (por exemplo, VS Code) e procure por:
-- `[Seu nome]`: seu nome profissional.
-- `[Sua formação]`: curso, universidade, especializações e registro profissional, se desejar.
-- `[Sua cidade]`: cidade/região de atuação.
-- `[seuemail@email.com]`: e-mail de contato. Troque também o valor `recipient` no JavaScript, perto do final do arquivo.
-- `[@seuinstagram]`: seu Instagram profissional.
-- `EST. 2024 — BRASIL`: ajuste para combinar com sua trajetória.
-- Imagens: as fotos atuais são imagens ilustrativas carregadas do Unsplash. Substitua por fotos dos seus projetos reais e confirme que tem direito de usá-las.
+### Conceito visual
 
-## Funcionalidades incluídas
+A identidade do site combina uma linguagem editorial contemporânea com uma paleta cromática vibrante, contrastes marcantes, elementos gráficos experimentais e movimentos delicados. O resultado é uma estética que equilibra ousadia e sofisticação, transformando a navegação em parte da experiência de apresentação dos projetos.
 
-- Layout responsivo para celular, tablet e computador.
-- Identidade visual com rosa vibrante, azul elétrico e lima — sem paleta neutra/oliva.
-- Filtros interativos por tipo de projeto.
-- Modal com detalhes de cada projeto.
-- Menu mobile.
-- Animações suaves ao rolar a página e cursor personalizado em telas grandes.
-- Formulário que prepara um e-mail para agendar reunião (não envia sozinho nem armazena dados).
-- Seções de apresentação, manifesto, serviços, processo e contato.
+### Objetivo do projeto
 
-## Observação
+Criar uma presença digital que comunique a personalidade profissional da arquiteta, destaque seus trabalhos e facilite a conexão com clientes e parceiros, utilizando recursos modernos de desenvolvimento web e uma abordagem visual diferenciada.
 
-O portfólio usa conteúdo de demonstração e imagens de referência. Edite os textos e imagens para representar sua formação, sua experiência e seus projetos reais. O formulário depende do aplicativo de e-mail do visitante e não é um sistema de agendamento automático.
+### Tecnologias
+
+Desenvolvido com **HTML5, CSS3 e JavaScript**, o site possui estrutura leve, layout responsivo e funcionalidades interativas, podendo ser hospedado gratuitamente por meio do GitHub Pages.
